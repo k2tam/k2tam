@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k2tam
 - 👀 I’m interested in Mobile App Programming
-- 🌱 I’m currently learning Swift, React Native
+- 🌱 I’m currently learning Swift, Java Android and Flutter
 - 📫 Reach me at
 - email: buingockhaitam01@gmail.com
 
